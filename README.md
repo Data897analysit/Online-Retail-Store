@@ -18,6 +18,8 @@ Analyzed Revenue & Quantity across 10+ countries using Power BI — Netherlands 
 Built an executive-level Power BI dashboard for CEO & CMO with insights on Top 10 customers, country-wise sales, and revenue trends to support strategic planning.
 
 Thank You 
+
 Priyanshi 
+
 Data Analyst
-D
+
