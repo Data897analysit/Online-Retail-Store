@@ -5,3 +5,13 @@ The leadership is interested in viewing the metrics from both an operations and 
 
 Problem :- 
 The senior management wants to understand how their business is performing and what areas are the key strengths of the company. They are also focused on identifying opportunities that would lead to growth and generate more revenue in the future.
+
+Key Insights: - 
+Identified November as peak revenue month (1.51M) — 188% higher than February, enabling data-driven seasonal promotion strategies.
+Analyzed Revenue & Quantity across 10+ countries using Power BI — Netherlands led with 201K units, uncovering key markets for business expansion.
+Built an executive-level Power BI dashboard for CEO & CMO with insights on Top 10 customers, country-wise sales, and revenue trends to support strategic planning.
+
+Thank You 
+Priyanshi 
+Data Analyst
+D
